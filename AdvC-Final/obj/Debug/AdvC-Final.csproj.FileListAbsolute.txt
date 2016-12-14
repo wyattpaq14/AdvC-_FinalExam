@@ -1,2 +1,10 @@
 E:\AdvC-Final\AdvC-Final\bin\Debug\AdvC-Final.exe.config
 C:\Users\paqui\Source\Repos\AdvC-_FinalExam\AdvC-Final\bin\Debug\AdvC-Final.exe.config
+C:\Users\paqui\Source\Repos\AdvC-_FinalExam\AdvC-Final\obj\Debug\AdvC-Final.csprojResolveAssemblyReference.cache
+C:\Users\paqui\Source\Repos\AdvC-_FinalExam\AdvC-Final\obj\Debug\AdvC_Final.Form1.resources
+C:\Users\paqui\Source\Repos\AdvC-_FinalExam\AdvC-Final\obj\Debug\AdvC_Final.Properties.Resources.resources
+C:\Users\paqui\Source\Repos\AdvC-_FinalExam\AdvC-Final\obj\Debug\AdvC-Final.csproj.GenerateResource.Cache
+C:\Users\paqui\Source\Repos\AdvC-_FinalExam\AdvC-Final\bin\Debug\AdvC-Final.exe
+C:\Users\paqui\Source\Repos\AdvC-_FinalExam\AdvC-Final\bin\Debug\AdvC-Final.pdb
+C:\Users\paqui\Source\Repos\AdvC-_FinalExam\AdvC-Final\obj\Debug\AdvC-Final.exe
+C:\Users\paqui\Source\Repos\AdvC-_FinalExam\AdvC-Final\obj\Debug\AdvC-Final.pdb

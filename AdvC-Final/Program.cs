@@ -16,7 +16,14 @@ namespace AdvC_Final
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            try
+            {
+                Application.Run(new Form1());
+            }
+            catch
+            {
+                MessageBox.Show("An error has occured, please contact your system administratior", "Error");
+            }
         }
     }
 }
